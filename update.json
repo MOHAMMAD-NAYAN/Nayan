@@ -4,5 +4,6 @@
   "new command": "ck",
   "update": "ck",
   "owner": "fb",
-  "main" : "link"
+  "main" : "link",
+  "version": "2.2.0"
 }
