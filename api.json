@@ -2,5 +2,6 @@
   "sim": "http://37.27.114.136:25472",
   "api": "http://37.27.114.136:25472",
   "bing": "http://ger2-7.deploy.sbs:6542",
-  "terabox": "http://37.27.114.136:25549"
+  "terabox": "http://37.27.114.136:25549",
+  "upload": "http://pnode1.danbot.host:7968"
 }
