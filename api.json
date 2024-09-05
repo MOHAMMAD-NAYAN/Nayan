@@ -3,5 +3,6 @@
   "api": "http://37.27.114.136:25472",
   "bing": "http://ger2-7.deploy.sbs:6542",
   "terabox": "http://ap.sg.3.xeh.sh:25164",
-  "upload": "http://pnode1.danbot.host:7968"
+  "upload": "http://pnode1.danbot.host:7968",
+  "youtube": "http://77.238.239.154:8499"
 }
