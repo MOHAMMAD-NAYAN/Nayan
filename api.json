@@ -1,7 +1,7 @@
 {
   "sim": "http://37.27.114.136:25472",
   "api": "http://37.27.114.136:25472",
-  "bing": "http://37.27.114.136:25549",
+  "bing": "https://bing-img-api.onrender.com",
   "terabox": "http://ap.sg.2.xeh.sh:25164",
   "upload": "https://upload-media.onrender.com",
   "movie": "http://77.238.239.154:5788"
