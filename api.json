@@ -1,7 +1,7 @@
 {
-  "sim": "http://37.27.114.136:25472",
-  "api": "http://37.27.114.136:25472",
-  "api2": "http://37.27.114.136:25549",
+  "sim": "http://45.87.172.212:6072",
+  "api": "http://45.87.172.212:6072",
+  "api2": "http://45.87.172.212:6072",
   "bing": "https://n.api.mohammadnayan.fun",
   "terabox": "http://ap.sg.2.xeh.sh:25164",
   "upload": "https://upload-media.onrender.com",
