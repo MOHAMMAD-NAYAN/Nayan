@@ -1,9 +1,9 @@
 {
-  "sim": "http://5.78.95.105:5095",
-  "api": "http://5.78.95.105:5095",
-  "api2": "http://5.78.95.105:5095",
+  "sim": "http://5.78.130.60:5009",
+  "api": "http://5.78.130.60:5009",
+  "api2": "http://5.78.130.60:5009",
   "bing": "http://eu01.nodes.flyhost.co.uk:20015",
-  "terabox": "http://5.78.95.105:5095",
+  "terabox": "http://5.78.130.60:5009",
   "upload": "https://upload-media.onrender.com",
   "movie": "http://77.238.239.154:5788"
 }
